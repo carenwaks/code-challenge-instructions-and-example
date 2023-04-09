@@ -3,3 +3,4 @@ function helloThere() {
 }
 
 console.log(helloThere())
+console.log('new');
